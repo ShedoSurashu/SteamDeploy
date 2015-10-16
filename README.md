@@ -11,7 +11,7 @@ That's how I came to the conclusion of making SteamDeploy. What it does is simpl
 Coupled with an `autorun.inf` file, it will prompt Steam to restore the game in the disc giving the familiar disc installation process that Windows users have been familiar with. Only this time, it's on Steam.
 
 #### How to use
-Just download the latest version from the [Releases page](https://github.com/ShedoSurashu/SteamDeploy/releases) and pop it into the root of the disc. Don't forget to change the `label` inside `autorun.inf` to your game's name and, if applicable, the disc number.
+Just download the latest version from the [Releases page](https://github.com/ShedoSurashu/SteamDeploy/releases) and pop it into the root of the disc before burning. Don't forget to change the `label` inside `autorun.inf` to the game's name and, if applicable, the disc number too to avoid confusion.
 
 ![Disc structure](http://i.imgur.com/m9FK3mq.png)
 
